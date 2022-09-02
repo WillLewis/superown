@@ -1,0 +1,4 @@
+// fixes Auto Import by telling VS Code this is json not typescript
+{
+  "exclude": ["node_modules"]
+}
